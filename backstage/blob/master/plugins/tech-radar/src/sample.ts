@@ -69,7 +69,7 @@ entries.push({
   ],
   key: 'javascript',
   id: 'javascript',
-  title: 'JavaScript',
+  title: 'JavaScript Imad Test',
   quadrant: 'languages',
   links: [
     {
